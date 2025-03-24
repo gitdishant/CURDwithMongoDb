@@ -142,3 +142,6 @@ dist
 .svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/node
+
+#network connection problem you can fix it by going to mongodb atlats network accaess and rusiser your network or adding 0.0.0.0 to give acses to all network
+
